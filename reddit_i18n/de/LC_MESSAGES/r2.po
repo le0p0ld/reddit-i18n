@@ -28,7 +28,7 @@ msgstr "API"
 
 #: r2/controllers/api.py:139
 msgid "thanks for your message! you should hear back from us shortly."
-msgstr "Danke für deine Nachricht! Du sollst bald von uns hören."
+msgstr "Danke für deine Nachricht! Du solltest bald von uns hören."
 
 #: r2/controllers/api.py:167
 msgid "your message has been delivered"
@@ -123,11 +123,11 @@ msgstr "Versuch es morgen nochmal"
 
 #: r2/controllers/api.py:1932 r2/controllers/api.py:2113
 msgid "invalid css class"
-msgstr ""
+msgstr "Ungültige CSS-Klasse"
 
 #: r2/controllers/api.py:1935 r2/controllers/api.py:2116
 msgid "too many css classes"
-msgstr ""
+msgstr "Zu viele CSS-Klassen"
 
 #: r2/controllers/api.py:2132
 msgid "max flair templates reached"
@@ -234,7 +234,7 @@ msgstr "Dieser Kommentar wurde gelöscht"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "Dieses Element ist gelöscht worden"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
@@ -279,7 +279,7 @@ msgstr "Bitte gib einen Benutzernamen ein"
 #: r2/controllers/errors.py:53
 #, python-format
 msgid "that number isn't in the right range (%(min)d to %(max)d)"
-msgstr ""
+msgstr "Diese Nummer ist nicht in der richtigen Grössenordnung (%(min)d bis %(max)d"
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
@@ -380,7 +380,7 @@ msgstr ""
 #: r2/controllers/errors.py:78
 #, python-format
 msgid "please enter a date at least %(day)s days in the past"
-msgstr ""
+msgstr "Bitte gib ein Datum an, das mindestens %(day)s Tage in der Vergangenheit liegt"
 
 #: r2/controllers/errors.py:79
 #, python-format
@@ -419,7 +419,7 @@ msgstr "Dieses Reddit erlaubt ausschliesslich Textposts"
 
 #: r2/controllers/errors.py:87
 msgid "that's a piece of history now; it's too late to reply to it"
-msgstr ""
+msgstr "Das ist jetzt Geschichte; Es ist zu spät um darauf zu antworten"
 
 #: r2/controllers/errors.py:88
 msgid "invalid css name"
@@ -493,7 +493,7 @@ msgstr ""
 
 #: r2/controllers/front.py:415
 msgid "filter by moderator"
-msgstr ""
+msgstr "Nach Moderator sortieren"
 
 #: r2/controllers/front.py:579 r2/lib/menus.py:142
 msgid "awards"
@@ -544,7 +544,7 @@ msgstr "Vielen Dank"
 #: r2/controllers/front.py:1127 r2/controllers/front.py:1149
 #: r2/lib/menus.py:101 r2/templates/gold.html:84
 msgid "reddit gold"
-msgstr ""
+msgstr "reddit gold"
 
 #: r2/controllers/ipn.py:228
 msgid "nice try."
@@ -630,7 +630,7 @@ msgstr "Profil für %(user)s"
 #: r2/controllers/listingcontroller.py:631
 #: r2/templates/printablebuttons.html:332
 msgid "unread"
-msgstr ""
+msgstr "ungelesen"
 
 #: r2/controllers/listingcontroller.py:624
 msgid "comment replies"
@@ -674,7 +674,7 @@ msgstr ""
 
 #: r2/controllers/promotecontroller.py:464
 msgid "failed to authenticate card.  sorry."
-msgstr ""
+msgstr "Karte konnte nicht authentifiziert werden. Sorry"
 
 #: r2/controllers/promotecontroller.py:509
 msgid "bad image"
@@ -859,7 +859,7 @@ msgstr "Einstellungen"
 
 #: r2/lib/menus.py:89
 msgid "blog"
-msgstr ""
+msgstr "Blog"
 
 #: r2/lib/menus.py:90 r2/templates/utils.html:413
 msgid "logout"
@@ -895,7 +895,7 @@ msgstr "Store"
 
 #: r2/lib/menus.py:100
 msgid "advertise"
-msgstr ""
+msgstr "Werbung"
 
 #: r2/lib/menus.py:102
 msgid "subreddits"
@@ -907,7 +907,7 @@ msgstr "Optionen"
 
 #: r2/lib/menus.py:106
 msgid "RSS feeds"
-msgstr ""
+msgstr "RSS feeds"
 
 #: r2/lib/menus.py:107
 msgid "friends"
@@ -1088,7 +1088,7 @@ msgstr ""
 
 #: r2/lib/menus.py:164
 msgid "unseen"
-msgstr ""
+msgstr "ungesehen"
 
 #: r2/lib/menus.py:165
 msgid "roadblock"
@@ -1104,7 +1104,7 @@ msgstr ""
 
 #: r2/lib/menus.py:168
 msgid "unpaid"
-msgstr ""
+msgstr "unbezahlt"
 
 #: r2/lib/menus.py:169
 msgid "pending"
@@ -1224,7 +1224,7 @@ msgstr "...für das Teilen der Links über die Grüne Partei."
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:30
 msgid "Reason to create a reddit 5"
-msgstr "...für Ihre Lieblingshobby."
+msgstr "...für Ihr Lieblingshobby."
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
